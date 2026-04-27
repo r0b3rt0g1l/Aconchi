@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r /d/DESKTOP/Arivechi-project/css /d/DESKTOP/Aconchi-project/)",
+      "Bash(cp -r /d/DESKTOP/Arivechi-project/js /d/DESKTOP/Aconchi-project/)",
+      "Bash(cp /d/DESKTOP/Arivechi-project/*.html /d/DESKTOP/Aconchi-project/)",
+      "Bash(cp /d/DESKTOP/Arivechi-project/README.md /d/DESKTOP/Aconchi-project/)",
+      "Bash(python -c ' *)",
+      "Bash(git add *)"
+    ]
+  }
+}
